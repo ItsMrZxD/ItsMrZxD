@@ -1,6 +1,6 @@
 # Hey, I'm Mr.Z
 
-Software Engineering student based in El Salvador. I build things, break things, and occasionally fix them.
+Software Engineering student. I build things, break things, and occasionally fix them.
 
 ---
 
