@@ -1,1 +1,98 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCjxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPWdyYWRpZW50JmN1c3RvbUNvbG9yTGlzdD02LDExLDIwJmhlaWdodD0xODAmc2VjdGlvbj1oZWFkZXImdGV4dD1Nci5aJmZvbnRTaXplPTUyJmZvbnRDb2xvcj1mZmYmYW5pbWF0aW9uPXR3aW5rbGluZyZmb250QWxpZ25ZPTMyJmRlc2M9U29mdHdhcmUlMjBFbmdpbmVlcmluZyUyMFN0dWRlbnQmZGVzY0FsaWduWT01NiZkZXNjQWxpZ249NTAiIHdpZHRoPSIxMDAlIi8+CgpbIVtUeXBpbmcgU1ZHXShodHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmRlbW9sYWIuY29tP2ZvbnQ9SmV0QnJhaW5zK01vbm8md2VpZ2h0PTYwMCZzaXplPTIwJmR1cmF0aW9uPTMwMDAmcGF1c2U9ODI1JmNvbG9yPTU4QTZGRiZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmd2lkdGg9NjUwJmxpbmVzPUkrYnVpbGQrdGhpbmdzJTJDK2JyZWFrK3RoaW5ncyUyQytmaXgrdGhpbmdzLjtTeXN0ZW1zKyU3QytIYXJkd2FyZSslN0MrRlBWKyU3QytBSTtDdXJyZW50bHkrbGVhcm5pbmcrJUUyJTgwJTk0K2Fsd2F5cytidWlsZGluZy4pXShodHRwczovL2dpdC5pby90eXBpbmctc3ZnKQoKPC9kaXY+Cgo8YnIvPgoKPGltZyBhbGlnbj0icmlnaHQiIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncz91c2VybmFtZT1JdHNNclp4RCZsYXlvdXQ9Y29tcGFjdCZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUmbGFuZ3NfY291bnQ9NiIgd2lkdGg9IjMwMCIvPgoKIyMjIGA+IHdob2FtaWAKCmBgYApOYW1lICAgICA6ICBNci5aClJvbGUgICAgIDogIFNvZnR3YXJlIEVuZ2luZWVyaW5nIFN0dWRlbnQKRm9jdXMgICAgOiAgU3lzdGVtcyB8IEhhcmR3YXJlIHwgQUkKU3RhdHVzICAgOiAgQnVpbGRpbmcgc29tZXRoaW5nLiBBbHdheXMuCmBgYAoKLSAqKkhhcmR3YXJlKiog4oCUIEdQVXMsIG1vYmlsZSB0ZWNoLCBjb25zdW1lciBlbGVjdHJvbmljcwotICoqRlBWIERyb25lcyoqIOKAlCByZXNlYXJjaGluZywgb2NjYXNpb25hbGx5IGZseWluZwotICoqQUkgJiBMb2NhbCBNb2RlbHMqKiDigJQgcnVubmluZyBMTE0gZXhwZXJpbWVudHMKLSAqKkNyZWF0aXZlIFdyaXRpbmcqKiDigJQgbG9uZy1mb3JtIHByb2plY3Qgb24gdGhlIHNpZGUKCjxiciBjbGVhcj0icmlnaHQiLz4KCi0tLQoKIyMjIGA+IGdvYWxzLnR4dGAKCmBgYGJhc2gKWyBdIFNoaXAgcHJvamVjdHMgdGhhdCBhY3R1YWxseSBzb2x2ZSByZWFsIHByb2JsZW1zClsgXSBHZXQgZGVlcCBpbnRvIHN5c3RlbXMgcHJvZ3JhbW1pbmcgYW5kIGxvdy1sZXZlbCBkZXYKWyBdIEJyZWFrIGludG8gZW1iZWRkZWQgc3lzdGVtcyAvIElvVCAvIEZQVgpbIF0gQ29udHJpYnV0ZSB0byBvcGVuIHNvdXJjZQpbIF0gQnVpbGQgc29tZXRoaW5nIHBlb3BsZSBhY3R1YWxseSB1c2UKWyBdIEdldCBhIGpvYiAgICMgYXBwYXJlbnRseSBHaXRIdWIgcHJvZmlsZXMgYXJlIG5vdCBlbm91Z2gKYGBgCgotLS0KCiMjIyBgPiBzdGFja2AKCioqTGVhcm5pbmcqKgoKIVtDXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0MtQThCOUNDP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1jJmxvZ29Db2xvcj1ibGFjaykKIVtDKytdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQysrLTAwNTk5Qz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289YyUyQiUyQiZsb2dvQ29sb3I9d2hpdGUpCiFbUHl0aG9uXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1B5dGhvbi0zNzc2QUI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXB5dGhvbiZsb2dvQ29sb3I9d2hpdGUpCiFbSmF2YVNjcmlwdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KYXZhU2NyaXB0LUY3REYxRT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289amF2YXNjcmlwdCZsb2dvQ29sb3I9YmxhY2spCiFbSmF2YV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KYXZhLTAwNzM5Nj9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289b3BlbmpkayZsb2dvQ29sb3I9d2hpdGUpCgoqKlRvb2xzKioKCiFbR2l0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdC1GMDUwMzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdCZsb2dvQ29sb3I9d2hpdGUpCiFbTGludXhdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGludXgtRkNDNjI0P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1saW51eCZsb2dvQ29sb3I9YmxhY2spCiFbVlMgQ29kZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9WUyUyMENvZGUtMDA3QUNDP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz12aXN1YWwtc3R1ZGlvLWNvZGUmbG9nb0NvbG9yPXdoaXRlKQohW0RvY2tlcl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Eb2NrZXItMjQ5NkVEP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1kb2NrZXImbG9nb0NvbG9yPXdoaXRlKQohW1Bvc3RncmVTUUxdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUG9zdGdyZVNRTC00MTY5RTE/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBvc3RncmVzcWwmbG9nb0NvbG9yPXdoaXRlKQohW0dpdEh1YiBBY3Rpb25zXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dpdEh1YiUyMEFjdGlvbnMtMjA4OEZGP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1naXRodWItYWN0aW9ucyZsb2dvQ29sb3I9d2hpdGUpCgotLS0KCiMjIyBgPiBzdGF0c2AKCjxkaXYgYWxpZ249ImNlbnRlciI+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPUl0c01yWnhEJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT10b2t5b25pZ2h0JmhpZGVfYm9yZGVyPXRydWUmcmFua19pY29uPWdpdGh1YiZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUiIGhlaWdodD0iMTY1Ii8+CjxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RyZWFrLXN0YXRzLWVpZ2h0LnZlcmNlbC5hcHAvP3VzZXI9SXRzTXJaeEQmdGhlbWU9dG9reW8tbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSIgaGVpZ2h0PSIxNjUiLz4KCjwvZGl2PgoKLS0tCgojIyMgYD4gYWN0aXZpdHlgCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIVtBY3Rpdml0eSBHcmFwaF0oaHR0cHM6Ly9naXRodWItcmVhZG1lLWFjdGl2aXR5LWdyYXBoLnZlcmNlbC5hcHAvZ3JhcGg/dXNlcm5hbWU9SXRzTXJaeEQmdGhlbWU9dG9reW8tbmlnaHQmaGlkZV9ib3JkZXI9dHJ1ZSZhcmVhPXRydWUmY3VzdG9tX3RpdGxlPUNvbnRyaWJ1dGlvbiUyMEFjdGl2aXR5KQoKPC9kaXY+CgotLS0KCiMjIyBgPiBzbmFrZWAKCjxkaXYgYWxpZ249ImNlbnRlciI+Cgo8cGljdHVyZT4KICA8c291cmNlIG1lZGlhPSIocHJlZmVycy1jb2xvci1zY2hlbWU6IGRhcmspIiBzcmNzZXQ9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9JdHNNclp4RC9pdHNtcnp4ZC9vdXRwdXQvZ2l0aHViLWNvbnRyaWJ1dGlvbi1ncmlkLXNuYWtlLWRhcmsuc3ZnIi8+CiAgPHNvdXJjZSBtZWRpYT0iKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdodCkiIHNyY3NldD0iaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0l0c01yWnhEL2l0c21yenhkL291dHB1dC9naXRodWItY29udHJpYnV0aW9uLWdyaWQtc25ha2Uuc3ZnIi8+CiAgPGltZyBhbHQ9ImdpdGh1Yi1jb250cmlidXRpb24tZ3JpZC1zbmFrZSIgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vSXRzTXJaeEQvaXRzbXJ6eGQvb3V0cHV0L2dpdGh1Yi1jb250cmlidXRpb24tZ3JpZC1zbmFrZS5zdmciLz4KPC9waWN0dXJlPgoKPC9kaXY+Cgo8aW1nIHNyYz0iaHR0cHM6Ly9jYXBzdWxlLXJlbmRlci52ZXJjZWwuYXBwL2FwaT90eXBlPXdhdmluZyZjb2xvcj1ncmFkaWVudCZjdXN0b21Db2xvckxpc3Q9NiwxMSwyMCZoZWlnaHQ9MTAwJnNlY3Rpb249Zm9vdGVyIiB3aWR0aD0iMTAwJSIvPgo=
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mr.Z&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Student&descAlignY=56&descAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=825&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things%2C+break+things%2C+fix+things.;Systems+%7C+Hardware+%7C+FPV+%7C+AI;Currently+learning+%E2%80%94+always+building.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsMrZxD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300"/>
+
+### `> whoami`
+
+```
+Name     :  Mr.Z
+Role     :  Software Engineering Student
+Focus    :  Systems | Hardware | AI
+Status   :  Building something. Always.
+```
+
+- **Hardware** — GPUs, mobile tech, consumer electronics
+- **FPV Drones** — researching, occasionally flying
+- **AI & Local Models** — running LLM experiments
+- **Creative Writing** — long-form project on the side
+
+<br clear="right"/>
+
+---
+
+### `> goals.txt`
+
+```bash
+[ ] Ship projects that actually solve real problems
+[ ] Get deep into systems programming and low-level dev
+[ ] Break into embedded systems / IoT / FPV
+[ ] Contribute to open source
+[ ] Build something people actually use
+[ ] Get a job   # apparently GitHub profiles are not enough
+```
+
+---
+
+### `> stack`
+
+**Learning**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### `> stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ItsMrZxD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ItsMrZxD&theme=tokyo-night&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+### `> activity`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsMrZxD&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
+
+</div>
+
+---
+
+### `> snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsMrZxD/itsmrzxd/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsMrZxD/itsmrzxd/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ItsMrZxD/itsmrzxd/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
