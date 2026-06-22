@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=825&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things%2C+break+things%2C+fix+things.;Systems+%7C+Hardware+%7C+FPV+%7C+AI;Currently+learning+%E2%80%94+always+building.)](https://git.io/typing-svg)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ItsMrZxD&label=Profile%20views&color=58A6FF&style=flat" alt="profile views"/>
+
 </div>
 
 <br/>
@@ -62,12 +66,33 @@ Status   :  Building something. Always.
 
 ---
 
+### `> projects`
+
+**[sysglance](https://github.com/ItsMrZxD/ItsMrZxD/tree/main/sysglance)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, OS, uptime). Pure Python standard library.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+
+> _More on the way — just getting started._
+
+---
+
 ### `> stats`
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ItsMrZxD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ItsMrZxD&theme=tokyo-night&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+### `> trophies`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ItsMrZxD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
