@@ -68,10 +68,11 @@ Status   :  Building something. Always.
 
 ### `> projects`
 
-**[sysglance](https://github.com/ItsMrZxD/ItsMrZxD/tree/main/sysglance)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, OS, uptime). Pure Python standard library.
+**[sysglance](https://github.com/ItsMrZxD/sysglance)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, network, battery, temperature, OS, uptime). Pure Python standard library — no `pip install` required.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+![platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-informational?style=flat-square)
 
 > _More on the way — just getting started._
 
