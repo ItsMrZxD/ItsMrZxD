@@ -68,6 +68,12 @@ Status   :  Building something. Always.
 
 ### `> projects`
 
+**[todo-cli](https://github.com/ItsMrZxD/todo-cli)** — a single-file C++ command-line to-do list manager: add, list, complete, and delete tasks from a clean menu, with automatic persistence to a text file. Standard library only, no external dependencies.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+![standard](https://img.shields.io/badge/standard-C%2B%2B11-informational?style=flat-square)
+
 **[sysglance](https://github.com/ItsMrZxD/sysglance)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, network, battery, temperature, OS, uptime). Pure Python standard library — no `pip install` required.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
