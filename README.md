@@ -68,6 +68,12 @@ Status   :  Building something. Always.
 
 ### `> projects`
 
+**[password-generator](https://github.com/ItsMrZxD/password-generator)** — a secure command-line password generator built on Python's `secrets` module (CSPRNG, not `random`): guarantees every selected character category, rates strength with an entropy estimate in bits, excludes ambiguous look-alikes on request, and can batch-generate, copy to clipboard, or save to file. Standard library only.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+![randomness](https://img.shields.io/badge/randomness-CSPRNG%20(secrets)-informational?style=flat-square)
+
 **[hotseat-chess](https://github.com/ItsMrZxD/hotseat-chess)** — a complete chess game in a single self-contained HTML file: two-player hot-seat plus an AI opponent (Easy/Hard), full legal-move rules (castling, en passant, promotion, and all standard draws), and a live settings panel. Vanilla JS, no libraries.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
