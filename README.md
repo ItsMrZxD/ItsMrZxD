@@ -68,6 +68,12 @@ Status   :  Building something. Always.
 
 ### `> projects`
 
+**[hotseat-chess](https://github.com/ItsMrZxD/hotseat-chess)** — a complete chess game in a single self-contained HTML file: two-player hot-seat plus an AI opponent (Easy/Hard), full legal-move rules (castling, en passant, promotion, and all standard draws), and a live settings panel. Vanilla JS, no libraries.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+
 **[todo-cli](https://github.com/ItsMrZxD/todo-cli)** — a single-file C++ command-line to-do list manager: add, list, complete, and delete tasks from a clean menu, with automatic persistence to a text file. Standard library only, no external dependencies.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
