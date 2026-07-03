@@ -68,6 +68,18 @@ Status   :  Building something. Always.
 
 ### `> projects`
 
+**[entity_resolver](https://github.com/ItsMrZxD/entity_resolver)** — fuzzy entity resolution in Python: matches records across two CSV datasets even when the names disagree — typos, abbreviations, legal suffixes, word order — and scores its own confidence so you know which matches to trust. Benchmarks three RapidFuzz similarity metrics and picks the default with data, not vibes.
+
+```
+"Apple Inc."          →  "Apple"                100.0
+"Nvidia Corporaton"   →  "NVIDIA Corporation"    90.0
+"Tesla Motors"        →  "Tesla Inc"             90.0
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/entity_resolver/ci.yml?branch=main&style=flat-square&label=CI)
+![tests](https://img.shields.io/badge/tests-12%20passing-success?style=flat-square)
+
 **[password-generator](https://github.com/ItsMrZxD/password-generator)** — a secure command-line password generator built on Python's `secrets` module (CSPRNG, not `random`): guarantees every selected character category, rates strength with an entropy estimate in bits, excludes ambiguous look-alikes on request, and can batch-generate, copy to clipboard, or save to file. Standard library only.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
