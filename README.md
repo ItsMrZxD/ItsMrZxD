@@ -12,7 +12,7 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsMrZxD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300"/>
+<img align="right" src="https://github-readme-stats-eta-one-23.vercel.app/api/top-langs?username=ItsMrZxD&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="300"/>
 
 ### `> whoami`
 
@@ -113,7 +113,7 @@ Status   :  Building something. Always.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItsMrZxD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats-eta-one-23.vercel.app/api?username=ItsMrZxD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ItsMrZxD&theme=tokyo-night&hide_border=true" height="165"/>
 
 </div>
