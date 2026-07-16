@@ -69,7 +69,7 @@ Status   :  Building something. Always.
 
 ### `> projects`
 
-**[entity_resolver](https://github.com/ItsMrZxD/entity_resolver)** — fuzzy entity resolution in Python: matches records across two CSV datasets even when the names disagree — typos, abbreviations, legal suffixes, word order — and scores its own confidence so you know which matches to trust. Benchmarks three RapidFuzz similarity metrics and picks the default with data, not vibes.
+**[entity-resolver](https://github.com/ItsMrZxD/entity-resolver)** — fuzzy entity resolution in Python: matches records across two CSV datasets even when the names disagree — typos, abbreviations, legal suffixes, word order — and scores its own confidence so you know which matches to trust. Benchmarks three RapidFuzz similarity metrics and picks the default with data, not vibes.
 
 ```
 "Apple Inc."          →  "Apple"                100.0
@@ -78,12 +78,13 @@ Status   :  Building something. Always.
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/entity_resolver/ci.yml?branch=main&style=flat-square&label=CI)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/entity-resolver/ci.yml?branch=main&style=flat-square&label=CI)
 ![tests](https://img.shields.io/badge/tests-12%20passing-success?style=flat-square)
 
 **[password-generator](https://github.com/ItsMrZxD/password-generator)** — a secure command-line password generator built on Python's `secrets` module (CSPRNG, not `random`): guarantees every selected character category, rates strength with an entropy estimate in bits, excludes ambiguous look-alikes on request, and can batch-generate, copy to clipboard, or save to file. Standard library only.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/password-generator/ci.yml?branch=main&style=flat-square&label=CI)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 ![randomness](https://img.shields.io/badge/randomness-CSPRNG%20(secrets)-informational?style=flat-square)
 
@@ -96,12 +97,14 @@ Status   :  Building something. Always.
 **[todo-cli](https://github.com/ItsMrZxD/todo-cli)** — a single-file C++ command-line to-do list manager: add, list, complete, and delete tasks from a clean menu, with automatic persistence to a text file. Standard library only, no external dependencies.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/todo-cli/ci.yml?branch=main&style=flat-square&label=CI)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 ![standard](https://img.shields.io/badge/standard-C%2B%2B11-informational?style=flat-square)
 
 **[sysglance](https://github.com/ItsMrZxD/sysglance)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, network, battery, temperature, OS, uptime). Pure Python standard library — no `pip install` required.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/sysglance/ci.yml?branch=main&style=flat-square&label=CI)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 ![platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-informational?style=flat-square)
 
