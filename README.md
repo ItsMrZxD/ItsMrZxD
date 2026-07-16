@@ -92,6 +92,7 @@ Status   :  Building something. Always.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/hotseat-chess/ci.yml?branch=main&style=flat-square&label=CI)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 
 **[todo-cli](https://github.com/ItsMrZxD/todo-cli)** — a single-file C++ command-line to-do list manager: add, list, complete, and delete tasks from a clean menu, with automatic persistence to a text file. Standard library only, no external dependencies.
