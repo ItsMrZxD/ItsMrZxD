@@ -36,8 +36,8 @@ Status   :  Building something. Always.
 
 ```bash
 [ ] Ship projects that actually solve real problems
-[ ] Get deep into systems programming and low-level dev
-[ ] Break into embedded systems / IoT / FPV
+[x] Get deep into systems programming and low-level dev
+[x] Break into embedded systems / IoT / FPV
 [ ] Contribute to open source
 [ ] Build something people actually use
 [ ] Get a job   # apparently GitHub profiles are not enough
