@@ -69,6 +69,25 @@ Status   :  Building something. Always.
 
 ### `> my best projects`
 
+**[postflight](https://github.com/ItsMrZxD/postflight)** — reads the black-box flight recorder off an FPV drone and tells you what happened on that flight. Decodes Betaflight's compact binary log format from scratch — seven variable-length encodings, twelve delta predictors, and resynchronisation after the corruption that crashed logs routinely carry — then reports the flight and flags impacts, receiver dropouts, battery sag and logging overruns. Checked against the Betaflight firmware sources rather than guessed, and verified on real recordings from three flight controllers: 119,950 frames, zero decode errors.
+
+```
+flight 1 of 1 · AR8 · Betaflight 4.2.0 · HBRO KAKUTEF7
+  duration       17.0 s
+  battery        22.73 V → 21.47 V  (6S, min 2.93 V/cell)
+  current        peak 119.8 A, 103 mAh used
+  gyro           peak 37 / 197 / 43 deg/s
+  gps            8 satellites, max 10 km/h, 25 m from home
+
+warnings
+  ⚠ voltage-sag: pack sagged to 2.93 V/cell, below the 3.30 V limit
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/postflight/ci.yml?branch=main&style=flat-square&label=CI)
+![tests](https://img.shields.io/badge/tests-182%20passing-success?style=flat-square)
+![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
+
 **[hotseat-chess](https://github.com/ItsMrZxD/hotseat-chess)** — a complete chess game in a single self-contained HTML file: two-player hot-seat plus an AI opponent (Easy/Hard), full legal-move rules (castling, en passant, promotion, and all standard draws), and a live settings panel. Vanilla JS, no libraries.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
