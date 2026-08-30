@@ -129,16 +129,6 @@ warnings
 
 ---
 
-### `> activity`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItsMrZxD&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-</div>
-
----
-
 ### `> snake`
 
 <div align="center">
