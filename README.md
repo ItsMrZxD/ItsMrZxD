@@ -69,7 +69,7 @@ Status   :  Building something. Always.
 
 ### `> my best projects`
 
-**[postflight](https://github.com/ItsMrZxD/postflight)** — reads the black-box flight recorder off an FPV drone and tells you what happened on that flight. Decodes Betaflight's compact binary log format from scratch — seven variable-length encodings, twelve delta predictors, and resynchronisation after the corruption that crashed logs routinely carry — then reports the flight and flags impacts, receiver dropouts, battery sag and logging overruns. Checked against the Betaflight firmware sources rather than guessed, and verified on real recordings from three flight controllers: 119,950 frames, zero decode errors.
+**[betaflight-blackbox-parser](https://github.com/ItsMrZxD/betaflight-blackbox-parser)** — reads the black-box flight recorder off an FPV drone and tells you what happened on that flight. Decodes Betaflight's compact binary log format from scratch — seven variable-length encodings, twelve delta predictors, and resynchronisation after the corruption that crashed logs routinely carry — then reports the flight and flags impacts, receiver dropouts, battery sag and logging overruns. Checked against the Betaflight firmware sources rather than guessed, and verified on real recordings from three flight controllers: 119,950 frames, zero decode errors.
 
 ```
 flight 1 of 1 · AR8 · Betaflight 4.2.0 · HBRO KAKUTEF7
@@ -84,18 +84,18 @@ warnings
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/postflight/ci.yml?branch=main&style=flat-square&label=CI)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/betaflight-blackbox-parser/ci.yml?branch=main&style=flat-square&label=CI)
 ![tests](https://img.shields.io/badge/tests-182%20passing-success?style=flat-square)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 
-**[hotseat-chess](https://github.com/ItsMrZxD/hotseat-chess)** — a complete chess game in a single self-contained HTML file: two-player hot-seat plus an AI opponent (Easy/Hard), full legal-move rules (castling, en passant, promotion, and all standard draws), and a live settings panel. Vanilla JS, no libraries.
+**[browser-chess-ai](https://github.com/ItsMrZxD/browser-chess-ai)** — a complete chess game in a single self-contained HTML file: two-player hot-seat plus an AI opponent (Easy/Hard), full legal-move rules (castling, en passant, promotion, and all standard draws), and a live settings panel. Vanilla JS, no libraries.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/hotseat-chess/ci.yml?branch=main&style=flat-square&label=CI)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/browser-chess-ai/ci.yml?branch=main&style=flat-square&label=CI)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 
-**[entity-resolver](https://github.com/ItsMrZxD/entity-resolver)** — fuzzy entity resolution in Python: matches records across two CSV datasets even when the names disagree — typos, abbreviations, legal suffixes, word order — and scores its own confidence so you know which matches to trust. Benchmarks three RapidFuzz similarity metrics and picks the default with data, not vibes.
+**[fuzzy-entity-matching](https://github.com/ItsMrZxD/fuzzy-entity-matching)** — fuzzy entity resolution in Python: matches records across two CSV datasets even when the names disagree — typos, abbreviations, legal suffixes, word order — and scores its own confidence so you know which matches to trust. Benchmarks three RapidFuzz similarity metrics and picks the default with data, not vibes.
 
 ```
 "Apple Inc."          →  "Apple"                100.0
@@ -104,13 +104,13 @@ warnings
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/entity-resolver/ci.yml?branch=main&style=flat-square&label=CI)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/fuzzy-entity-matching/ci.yml?branch=main&style=flat-square&label=CI)
 ![tests](https://img.shields.io/badge/tests-12%20passing-success?style=flat-square)
 
-**[sysglance](https://github.com/ItsMrZxD/sysglance)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, network, battery, temperature, OS, uptime). Pure Python standard library — no `pip install` required.
+**[python-sysinfo-cli](https://github.com/ItsMrZxD/python-sysinfo-cli)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, network, battery, temperature, OS, uptime). Pure Python standard library — no `pip install` required.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/sysglance/ci.yml?branch=main&style=flat-square&label=CI)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/python-sysinfo-cli/ci.yml?branch=main&style=flat-square&label=CI)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 ![platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-informational?style=flat-square)
 
