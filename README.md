@@ -40,7 +40,6 @@ Status   :  Building something. Always.
 [x] Break into embedded systems / IoT / FPV
 [x] Publish an app on the Microsoft Store        # Flylet, live
 [ ] Build something people actually use          # in progress: real users are starting to send bug reports
-[ ] Get Flylet into winget
 [ ] Contribute to open source
 [ ] Get a job   # apparently GitHub profiles are not enough
 ```
