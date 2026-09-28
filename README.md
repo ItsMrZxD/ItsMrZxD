@@ -35,11 +35,13 @@ Status   :  Building something. Always.
 ### `> goals.txt`
 
 ```bash
-[ ] Ship projects that actually solve real problems
+[x] Ship projects that actually solve real problems
 [x] Get deep into systems programming and low-level dev
 [x] Break into embedded systems / IoT / FPV
+[x] Publish an app on the Microsoft Store        # Flylet, live
+[ ] Build something people actually use          # in progress: real users are starting to send bug reports
+[ ] Get Flylet into winget
 [ ] Contribute to open source
-[ ] Build something people actually use
 [ ] Get a job   # apparently GitHub profiles are not enough
 ```
 
@@ -49,6 +51,10 @@ Status   :  Building something. Always.
 
 **Learning**
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/WPF%20%2F%20XAML-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,6 +75,14 @@ Status   :  Building something. Always.
 
 ### `> my best projects`
 
+**[Flylet](https://github.com/ItsMrZxD/Flylet)** — modern, Fluent-style replacements for the Windows volume, brightness, media and lock-key pop-ups, live on the [Microsoft Store](https://apps.microsoft.com/detail/9NPSS6NW7T23). A maintained continuation of the archived ModernFlyouts (MIT). It hides Windows' own pop-up by hooking window events on `explorer.exe`, then draws its own above it with the undocumented `CreateWindowInBand`. Fixed a media timeline that froze between reports, made it work on Windows 11, and ships 31 fully translated languages, custom colors and a live-following accent color. Every release goes through the Store's certification, with unit tests on every push.
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![release](https://img.shields.io/github/v/release/ItsMrZxD/Flylet?style=flat-square)
+![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/Flylet/tests.yml?branch=main&style=flat-square&label=tests)
+![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-live-success?style=flat-square&logo=microsoftstore&logoColor=white)
+
 **[betaflight-blackbox-parser](https://github.com/ItsMrZxD/betaflight-blackbox-parser)** — reads the black-box flight recorder off an FPV drone and tells you what happened on that flight. Decodes Betaflight's compact binary log format from scratch — seven variable-length encodings, twelve delta predictors, and resynchronisation after the corruption that crashed logs routinely carry — then reports the flight and flags impacts, receiver dropouts, battery sag and logging overruns. Checked against the Betaflight firmware sources rather than guessed, and verified on real recordings from three flight controllers: 119,950 frames, zero decode errors.
 
 ```
@@ -88,13 +102,6 @@ warnings
 ![tests](https://img.shields.io/badge/tests-182%20passing-success?style=flat-square)
 ![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
 
-**[browser-chess-ai](https://github.com/ItsMrZxD/browser-chess-ai)** — a complete chess game in a single self-contained HTML file: two-player hot-seat plus an AI opponent (Easy/Hard), full legal-move rules (castling, en passant, promotion, and all standard draws), and a live settings panel. Vanilla JS, no libraries.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/browser-chess-ai/ci.yml?branch=main&style=flat-square&label=CI)
-![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
-
 **[fuzzy-entity-matching](https://github.com/ItsMrZxD/fuzzy-entity-matching)** — fuzzy entity resolution in Python: matches records across two CSV datasets even when the names disagree — typos, abbreviations, legal suffixes, word order — and scores its own confidence so you know which matches to trust. Benchmarks three RapidFuzz similarity metrics and picks the default with data, not vibes.
 
 ```
@@ -107,12 +114,7 @@ warnings
 ![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/fuzzy-entity-matching/ci.yml?branch=main&style=flat-square&label=CI)
 ![tests](https://img.shields.io/badge/tests-12%20passing-success?style=flat-square)
 
-**[python-sysinfo-cli](https://github.com/ItsMrZxD/python-sysinfo-cli)** — a tiny zero-dependency CLI that prints a clean snapshot of your system (CPU, memory, disk, network, battery, temperature, OS, uptime). Pure Python standard library — no `pip install` required.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CI](https://img.shields.io/github/actions/workflow/status/ItsMrZxD/python-sysinfo-cli/ci.yml?branch=main&style=flat-square&label=CI)
-![dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)
-![platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-informational?style=flat-square)
+**Smaller projects:** [browser-chess-ai](https://github.com/ItsMrZxD/browser-chess-ai) (chess with a minimax AI in one HTML file) · [python-sysinfo-cli](https://github.com/ItsMrZxD/python-sysinfo-cli) (zero-dependency system snapshot) · [password-generator](https://github.com/ItsMrZxD/password-generator) (secure CLI generator) · [cpp-todo-cli](https://github.com/ItsMrZxD/cpp-todo-cli) (C++ task manager)
 
 > _More on the way — just getting started._
 
