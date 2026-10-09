@@ -10,8 +10,7 @@
 [x] Ship projects that actually solve real problems
 [x] Get deep into systems programming and low-level dev
 [x] Break into embedded systems / IoT / FPV
-[x] Publish an app on the Microsoft Store        # Flylet, live
-[ ] Build something people actually use          # in progress: real users are starting to send bug reports
+[x] Build something people actually use
 [ ] Contribute to open source
 [ ] Get a job   # apparently GitHub profiles are not enough
 ```
