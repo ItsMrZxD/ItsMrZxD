@@ -28,3 +28,13 @@ Matches records across two CSV files even when names disagree (typos, abbreviati
 ## Smaller projects
 
 [browser-chess-ai](https://github.com/ItsMrZxD/browser-chess-ai) · [python-sysinfo-cli](https://github.com/ItsMrZxD/python-sysinfo-cli) · [password-generator](https://github.com/ItsMrZxD/password-generator) · [cpp-todo-cli](https://github.com/ItsMrZxD/cpp-todo-cli)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsMrZxD/itsmrzxd/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsMrZxD/itsmrzxd/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ItsMrZxD/itsmrzxd/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
