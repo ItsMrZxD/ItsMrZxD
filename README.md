@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mr.Z&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Student&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mr.Z&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Self-Taught%20Software%20Engineer&descAlignY=56&descAlign=50" width="100%"/>
 
 </div>
 
