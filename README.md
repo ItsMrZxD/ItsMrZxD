@@ -1,6 +1,16 @@
 Self-taught engineer. I build small, dependency-light tools.
 
-Currently working on [Flylet](https://github.com/ItsMrZxD/Flylet), Windows volume and media pop-ups on the [Microsoft Store](https://apps.microsoft.com/detail/9NPSS6NW7T23).
+## Projects
+
+- [Flylet](https://github.com/ItsMrZxD/Flylet): Windows volume, brightness and media pop-ups, on the [Microsoft Store](https://apps.microsoft.com/detail/9NPSS6NW7T23).
+- [betaflight-blackbox-parser](https://github.com/ItsMrZxD/betaflight-blackbox-parser): reads FPV drone flight logs and reports what happened.
+- [fuzzy-entity-matching](https://github.com/ItsMrZxD/fuzzy-entity-matching): matches records across CSV files when names don't line up.
+
+## Contact
+
+Open to IT support, junior developer and freelance work.
+
+Email: OzzLand.Dev@gmail.com
 
 <div align="center">
 
