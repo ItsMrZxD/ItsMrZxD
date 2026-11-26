@@ -1,6 +1,6 @@
 Self-taught engineer. I build small, dependency-light tools.
 
-## Projects
+## Best projects
 
 - [Flylet](https://github.com/ItsMrZxD/Flylet): Windows volume, brightness and media pop-ups, on the [Microsoft Store](https://apps.microsoft.com/detail/9NPSS6NW7T23).
 - [betaflight-blackbox-parser](https://github.com/ItsMrZxD/betaflight-blackbox-parser): reads FPV drone flight logs and reports what happened.
